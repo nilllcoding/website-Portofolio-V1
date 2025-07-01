@@ -5,7 +5,6 @@ Portofolio ini mencakup:
 - 🧑‍💻 Profil pribadi & keahlian
 - 💼 Daftar proyek/karya unggulan
 - 📄 CV atau resume interaktif
-- 📬 Formulir kontak untuk kerja sama
 
 ## 🛠️ Teknologi yang Digunakan
 - **HTML5**: Struktur halaman
